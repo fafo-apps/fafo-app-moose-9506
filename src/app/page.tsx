@@ -144,7 +144,7 @@ export default function Home() {
             </ul>
           </div>
           <div className="rounded-2xl border border-white/10 bg-white/[0.03] p-6">
-            <h3 className="font-medium">Chef's Note</h3>
+            <h3 className="font-medium">Chef&#39;s Note</h3>
             <p className="mt-2 text-white/70 text-sm">
               Fire is our favorite ingredient. It transforms, it heightens, it comforts. We aim to keep things simple and soulful—letting good products and honest technique shine.
             </p>
